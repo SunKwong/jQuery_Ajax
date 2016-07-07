@@ -1,0 +1,19 @@
+@charset'utf-8';
+/* 浏览器初始化 */
+html,body,div,p,span,a,button{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: '微软雅黑';
+	font-size: 18px;
+	color: #333;
+}
+/*样式部分*/
+#box{
+	width: 200px;height:200px;
+	background-color: #666;
+}
+p{
+	color: red;
+}
