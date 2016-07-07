@@ -1,0 +1,12 @@
+$(function(){
+	//获取json数据
+	/*$('button').click(function(){
+		$.getJSON('test.json',function(response,status,xhr){
+			alert(response[0].url)
+		})
+	})*/
+	//加载JavaScript程序
+	$('button').click(function(){
+		$.getScript('test.js')
+	})
+})

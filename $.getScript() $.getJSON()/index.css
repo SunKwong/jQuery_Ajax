@@ -1,0 +1,16 @@
+@charset'utf-8';
+/* 浏览器初始化 */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'SimHei';
+	font-size: 14px;
+	color: #333;
+}
+/*样式部分*/
+#box{
+	width: 200px;height:200px;
+	background-color: #666;
+}
